@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-<img align="center" src="./assets/app.gif" with="400px" height="400px" />
+<img align="center" src="./assets/app.gif" with="450px" height="450px" />
 </div>
 
 ## 💡 Introduction
